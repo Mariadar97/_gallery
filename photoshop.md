@@ -4,7 +4,6 @@ title: 'Adobe Photoshop'
 year: 1988
 image_url: /images/photoshop.png
 caption: 'Το Adobe Photoshop είναι ένα λογισμικό επεξεργασίας φωτογραφιών που κυκλοφόρησε το 1988 για macintosh συστήματα και πιστεύετε ότι προώθησε τις πωλήσεις των συστημάτων αυτών.'
-license_url: Wikipedia
 categories:
   - Αρχέτυπα
   - Μέθοδος
